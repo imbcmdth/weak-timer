@@ -1,0 +1,16 @@
+{
+  "name": "weak-timer",
+  "version": "1.0.0",
+  "description": "Timer functions that help you to avoid memory leaks.",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["timer", "weak", "garbage collection", "reference", "leak"],
+  "author": "Jon-Carlos Rivera",
+  "license": "ISC",
+  "dependencies": {
+    "global": "^4.4.0"
+  }
+}
